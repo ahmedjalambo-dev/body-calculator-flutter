@@ -91,22 +91,3 @@ By providing basic information such as gender, age, weight, height, and activity
    ```bash  
    flutter run  
    ```  
-
----
-
-## Screenshots  
-Include screenshots of the app's interface (e.g., input form, results page).  
-
----
-
-## Contribution  
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.  
-
----
-
-## License  
-This project is licensed under the MIT License.  
-
----
-
-Let me know if you'd like to refine this or add more sections! 😊
